@@ -1,6 +1,6 @@
 cask "converterator" do
-  version "1.22.0"
-  sha256 "8787f23482d5a656f5e374443a0afb27d623c53a0c85ab5b51737d9cd7fe1c67"
+  version "1.23.0"
+  sha256 "9dbc4ff857b6136e486c4e5d76c532a5050c76978c571807d23c122bcb631e29"
 
   url "https://github.com/thepoisonninja/Converterator/releases/download/v#{version}/Converterator.zip"
   name "Converterator"
